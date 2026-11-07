@@ -1,0 +1,4 @@
+NMF Model Fit Metrics (4 Muscle Synergies)
+=============================================
+Variance Accounted For (VAF): 99.17%
+Coefficient of Determination (R^2): 98.84%
